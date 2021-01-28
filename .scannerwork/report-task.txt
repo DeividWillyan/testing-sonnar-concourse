@@ -1,0 +1,6 @@
+projectKey=flutter_rocks
+serverUrl=http://localhost:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://localhost:9000/dashboard?id=flutter_rocks
+ceTaskId=AXdGhoiskm_P7ifXyCCN
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXdGhoiskm_P7ifXyCCN
